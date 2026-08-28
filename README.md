@@ -10,6 +10,7 @@ Grab the latest build from the [Releases](../../releases/latest) page.
 
 - **Windows** — `.msix` (self-installing) or `.zip` (portable folder, run `zeroed.exe`)
 - **Android** — `.apk` (sideload; no Play Store account or Google billing required)
+- **macOS** — `.dmg` (notarized; Apple Silicon & Intel)
 
 SHA256 checksums are published in each release's notes — verify before installing.
 
