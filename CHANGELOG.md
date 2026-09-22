@@ -8,6 +8,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 Downloads and SHA256 checksums for each release live on the corresponding
 [GitHub release page](https://github.com/stillware-ltd/zeroed-releases/releases).
 
+## [Unreleased]
+
+### Removed
+- Android sideload APK — Android is Google Play only from 2026-09-22. The `Zeroed-1.3.0.apk`
+  asset was withdrawn from the 1.3.0 release and no APK will be published for later versions.
+  Installs from the withdrawn APK keep working but no longer receive updates; reinstall from
+  [Google Play](https://play.google.com/store/apps/details?id=com.stillwareltd.zeroed).
+  Reason: Android developer verification registers Play's app-signing key, not the local one.
+
 ## [1.3.0] — 2026-08-28
 
 ### Added
