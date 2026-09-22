@@ -9,14 +9,15 @@ Product page and support: [stillwareltd.com/zeroed](https://stillwareltd.com/zer
 Grab the latest build from the [Releases](../../releases/latest) page.
 
 - **Windows** — [Microsoft Store](https://apps.microsoft.com/detail/9NCHJ67Q98C5) (one-click, signed, auto-updates) or `.zip` (portable folder, run `zeroed.exe`)
-- **Android** — `.apk` (sideload; no Play Store account or Google billing required)
+- **Android** — [Google Play](https://play.google.com/store/apps/details?id=com.stillwareltd.zeroed) only; no APK is published here
+- **iOS** — [App Store](https://apps.apple.com/app/id6804301133)
 - **macOS** — `.dmg` (notarized; Apple Silicon & Intel)
 
 SHA256 checksums are published in each release's notes — verify before installing.
 
 ## Licensing
 
-Zeroed is licensed per-device via Paddle. One purchase activates up to five machines (desktop + sideloaded Android).
+Desktop downloads here are licensed via Paddle; one purchase activates up to five machines. Android and iOS are bought inside the app through Google Play or the App Store. Whichever way you buy, a licence key in your own Google Drive unlocks Zeroed on every device.
 
 ## Source
 
