@@ -11,7 +11,7 @@ Grab the latest build from the [Releases](../../releases/latest) page.
 - **Windows** — [Microsoft Store](https://apps.microsoft.com/detail/9NCHJ67Q98C5) (one-click, signed, auto-updates) or `.zip` (portable folder, run `zeroed.exe`)
 - **Android** — [Google Play](https://play.google.com/store/apps/details?id=com.stillwareltd.zeroed) only; no APK is published here
 - **iOS** — [App Store](https://apps.apple.com/app/id6804301133)
-- **macOS** — `.dmg` (notarized; Apple Silicon & Intel)
+- **macOS** — `.dmg` (notarized; Apple Silicon & Intel; macOS 12 or later). On macOS 10.15 or 11, use [Zeroed 1.4.0](../../releases/tag/v1.4.0), the last version for those systems
 
 SHA256 checksums are published in each release's notes — verify before installing.
 
